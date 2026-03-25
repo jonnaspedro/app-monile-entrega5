@@ -27,7 +27,7 @@ Praticar conceitos de desenvolvimento mobile e criação de interfaces.
 - npx expo start
 
 ## IPV4
--ifconfig
+- ifconfig
 
 ## Servidor da API 
 
